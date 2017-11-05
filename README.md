@@ -9,3 +9,5 @@ Emily, una niña soñadora, crea su propio mundo en su cuaderno: un reino y su p
 ¿Pero quién dice que nuestros sueños no pueden hacerse realidad?
 
 ***Para más información consultar la wiki del proyecto.***
+
+[***Para más información consultar la wiki del proyecto.***](https://github.com/marcduque/AnimationProject/wiki)
