@@ -18,4 +18,4 @@ Email: marcduqueanimation@gmail.com
 
 ### LICENSE
 
-AnimationProject used a Creative Commons License, more information in [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+**AnimationProject** used a **Creative Commons License**, more information in [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
