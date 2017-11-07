@@ -10,6 +10,8 @@ Emily, una niña soñadora, crea su propio mundo en su cuaderno: un reino y su p
 
 CONTACT
 
+Email: marcduqueanimation@gmail.com
+
 LICENSE
 
 AnimationProject used a Creative Commons License, more information in [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
