@@ -5,6 +5,6 @@
 - [x] Guión literario
 - [x] Guión técnico
 - [x] Storyboard
-- [ ] Audio animatica
-- [ ] Animatica
-- [ ] Concept personaje
+- [x] Audio animatica
+- [x] Animatica
+- [x] Concept personaje
