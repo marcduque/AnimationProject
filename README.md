@@ -10,6 +10,8 @@ Emily, una niña soñadora, crea su propio mundo en su cuaderno: un reino y su p
 ¿Pero quién dice que nuestros sueños no pueden hacerse realidad?
 
  Para más información visitar la wiki del proyecto: [WIKI](https://github.com/marcduque/AnimationProject/wiki).
+ 
+ ![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_name/project_name.png)
 
 ### CONTACT
 
@@ -22,5 +24,3 @@ Artstation: https://www.artstation.com/marcduque
 ### LICENSE
 
 **AnimationProject** used a **Creative Commons License**, more information in [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-
-![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_name/project_name.png)
