@@ -22,3 +22,5 @@ Artstation: https://www.artstation.com/marcduque
 ### LICENSE
 
 **AnimationProject** used a **Creative Commons License**, more information in [LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_name/project_name.png)
