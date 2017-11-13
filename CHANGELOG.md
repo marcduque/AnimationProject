@@ -1,4 +1,4 @@
-## PRE-ALPHA [x]
+## PRE-ALPHA
 - [x] Buscar referencias
 - [x] Sinopsis
 - [x] Historia
