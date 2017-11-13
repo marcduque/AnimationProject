@@ -14,6 +14,8 @@ Emily, una niña soñadora, crea su propio mundo en su cuaderno: un reino y su p
 ### CONTACT
 
 Email: marcduqueanimation@gmail.com
+Website: https://marcduque.wixsite.com/projects
+Artstation:https://www.artstation.com/marcduque
 
 ### LICENSE
 
