@@ -17,7 +17,7 @@ Email: marcduqueanimation@gmail.com
 
 Website: https://marcduque.wixsite.com/projects
 
-Artstation:https://www.artstation.com/marcduque
+Artstation: https://www.artstation.com/marcduque
 
 ### LICENSE
 
