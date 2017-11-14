@@ -1,7 +1,5 @@
 # SOME DREAMS BECOME TRUE
 
-## Marc Duque
-
 ![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_logo/logo.png)
 
 ### SINOPSIS
@@ -17,6 +15,8 @@ Emily, una niña soñadora, crea su propio mundo en su cuaderno: un reino y su p
 ![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_name/project_name.png)
 
 ### CONTACT
+
+## Marc Duque
 
 Email: marcduqueanimation@gmail.com
 
