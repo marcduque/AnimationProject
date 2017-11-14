@@ -7,4 +7,6 @@
 - [x] Storyboard
 - [x] Audio animatica
 - [x] Animatica
+- [x] Logo personal
+- [x] Logo animación
 - [x] Concept personaje
