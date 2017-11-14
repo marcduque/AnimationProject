@@ -3,6 +3,8 @@
 
 ### SINOPSIS
 
+![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_logo/logo.png)
+
 Este proyecto consiste en un corto de animación 3D, donde también se utiliza el 2D.
 
 Emily, una niña soñadora, crea su propio mundo en su cuaderno: un reino y su princesa, Sophie. Con la habitación repleta de dibujos de Sophie, la convierte en su mejor amiga imaginaria.
@@ -11,7 +13,7 @@ Emily, una niña soñadora, crea su propio mundo en su cuaderno: un reino y su p
 
  Para más información visitar la wiki del proyecto: [WIKI](https://github.com/marcduque/AnimationProject/wiki).
  
- ![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_name/project_name.png)
+![](https://github.com/marcduque/AnimationProject/blob/master/WikiResources/Wiki_name/project_name.png)
 
 ### CONTACT
 
